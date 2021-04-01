@@ -595,7 +595,7 @@
          console.log(url);
          to = url.split('?');
          if(to[1]) {
-            $('#to').html(to[1].replace('%20', ' '));
+            $('#to').html(to[1].split('%20').join(' '));
             $('#to-container').fadeIn();
          }
          displayIntro();
