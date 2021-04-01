@@ -1,0 +1,76 @@
+a, a:hover {
+   color: #000000;
+ }
+ 
+ 
+ /* Back to top button */
+ .back-to-top {
+   background: #81bba8;
+   color: #fff;
+ }
+ 
+ 
+ .back-to-top:focus {
+   background: #81bba8;
+   color: #fff;
+ }
+ 
+ .back-to-top:hover {
+   background: #252525;
+   color: #fff;
+ }
+ 
+ .navbar-default {
+   background: #81bba8;
+ }
+ 
+ .form-control:focus {
+   border-color: #000000;
+   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #000000;
+   box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #000000;
+ }
+ 
+ .service .carousel-indicators .active {
+   background: #000000;
+ }
+ 
+ .btn-theme {
+   background: #000000;
+ }
+ 
+ .contact-widget i {
+   color: #d2964d;
+ }
+
+ .carousel-content h2 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 60pt !important;
+}
+
+footer {
+  font-family: 'Dancing Script', cursive;
+  font-size: 20pt;
+}
+
+.btn-rsvp {
+  background-color: #81bba8;
+   border-radius: 3px;
+   color: #FFFFFF;
+   padding-left: 40px;
+   padding-right: 40px;
+  }
+  
+ .btn-rsvp:hover {
+   background-color: #252525;
+   color: #FFFFFF;
+  }
+
+  .navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30pt;
+    text-transform: none !important;
+ }
+
+ .navbar-brand:hover {
+  color: #00c1c1 !important;
+ }
